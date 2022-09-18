@@ -28,7 +28,7 @@ for https:
 ### Install
  
  after cloning the repo run 
- `npm install`
+ `bundle install`
 
 ### Usage
    run 
